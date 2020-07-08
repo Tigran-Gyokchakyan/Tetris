@@ -1,0 +1,116 @@
+{"frames": {
+
+"bg.png":
+{
+	"frame": {"x":0,"y":0,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"button bg.png":
+{
+	"frame": {"x":0,"y":1080,"w":156,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":104},
+	"sourceSize": {"w":156,"h":104}
+},
+"down button.png":
+{
+	"frame": {"x":156,"y":1080,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":68}
+},
+"game logo.png":
+{
+	"frame": {"x":244,"y":1080,"w":288,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":89},
+	"sourceSize": {"w":288,"h":89}
+},
+"kkl logo.png":
+{
+	"frame": {"x":532,"y":1080,"w":92,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":123},
+	"sourceSize": {"w":92,"h":123}
+},
+"left button.png":
+{
+	"frame": {"x":624,"y":1080,"w":68,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":88},
+	"sourceSize": {"w":68,"h":88}
+},
+"pause.png":
+{
+	"frame": {"x":692,"y":1080,"w":94,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":90},
+	"sourceSize": {"w":94,"h":90}
+},
+"play.png":
+{
+	"frame": {"x":786,"y":1080,"w":94,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":90},
+	"sourceSize": {"w":94,"h":90}
+},
+"right button.png":
+{
+	"frame": {"x":880,"y":1080,"w":68,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":88},
+	"sourceSize": {"w":68,"h":88}
+},
+"sound off.png":
+{
+	"frame": {"x":948,"y":1080,"w":94,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":90},
+	"sourceSize": {"w":94,"h":90}
+},
+"sound on.png":
+{
+	"frame": {"x":1042,"y":1080,"w":94,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":90},
+	"sourceSize": {"w":94,"h":90}
+},
+"tetris symbol.png":
+{
+	"frame": {"x":1136,"y":1080,"w":336,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":314},
+	"sourceSize": {"w":336,"h":314}
+},
+"text.png":
+{
+	"frame": {"x":1472,"y":1080,"w":313,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":313,"h":124},
+	"sourceSize": {"w":313,"h":124}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tetris-atlas-new.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1394},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f56e97c9f9e07b8514154571a54042b7:41f9cad023ff7e0d50cf707a23d238e2:328c8a2a1dee7fc22e110df048c081ef$"
+}
+}

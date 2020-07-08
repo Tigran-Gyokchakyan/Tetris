@@ -1,0 +1,535 @@
+{
+	"textures": [
+		{
+			"image": "tetris-atlas-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2032,
+				"h": 2017
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1920,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 1080
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1920,
+						"h": 1080
+					}
+				},
+				{
+					"filename": "kkl logo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 123
+					},
+					"frame": {
+						"x": 1923,
+						"y": 1,
+						"w": 92,
+						"h": 123
+					}
+				},
+				{
+					"filename": "left arrow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 88
+					},
+					"frame": {
+						"x": 1923,
+						"y": 126,
+						"w": 68,
+						"h": 88
+					}
+				},
+				{
+					"filename": "right arrow.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 88
+					},
+					"frame": {
+						"x": 1923,
+						"y": 216,
+						"w": 68,
+						"h": 88
+					}
+				},
+				{
+					"filename": "game stage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 844,
+						"h": 871
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 844,
+						"h": 871
+					},
+					"frame": {
+						"x": 1,
+						"y": 1083,
+						"w": 844,
+						"h": 871
+					}
+				},
+				{
+					"filename": "Layer 102.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 869
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 869
+					},
+					"frame": {
+						"x": 847,
+						"y": 1083,
+						"w": 194,
+						"h": 869
+					}
+				},
+				{
+					"filename": "panel bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 194,
+						"h": 869
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 194,
+						"h": 869
+					},
+					"frame": {
+						"x": 847,
+						"y": 1083,
+						"w": 194,
+						"h": 869
+					}
+				},
+				{
+					"filename": "platform_opening.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 988,
+						"h": 716
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 988,
+						"h": 716
+					},
+					"frame": {
+						"x": 1043,
+						"y": 1083,
+						"w": 988,
+						"h": 716
+					}
+				},
+				{
+					"filename": "in transit block.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 135
+					},
+					"frame": {
+						"x": 1043,
+						"y": 1801,
+						"w": 128,
+						"h": 135
+					}
+				},
+				{
+					"filename": "right block.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 135
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1801,
+						"w": 128,
+						"h": 135
+					}
+				},
+				{
+					"filename": "hebrew_text.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 313,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 313,
+						"h": 124
+					},
+					"frame": {
+						"x": 1303,
+						"y": 1801,
+						"w": 313,
+						"h": 124
+					}
+				},
+				{
+					"filename": "game logo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 89
+					},
+					"frame": {
+						"x": 1303,
+						"y": 1927,
+						"w": 288,
+						"h": 89
+					}
+				},
+				{
+					"filename": "data_bg_single.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 110
+					},
+					"frame": {
+						"x": 1618,
+						"y": 1801,
+						"w": 174,
+						"h": 110
+					}
+				},
+				{
+					"filename": "button bg-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 90
+					},
+					"frame": {
+						"x": 1618,
+						"y": 1913,
+						"w": 181,
+						"h": 90
+					}
+				},
+				{
+					"filename": "button bg-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 90
+					},
+					"frame": {
+						"x": 1618,
+						"y": 1913,
+						"w": 181,
+						"h": 90
+					}
+				},
+				{
+					"filename": "button bg-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 90
+					},
+					"frame": {
+						"x": 1618,
+						"y": 1913,
+						"w": 181,
+						"h": 90
+					}
+				},
+				{
+					"filename": "button bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 181,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 181,
+						"h": 90
+					},
+					"frame": {
+						"x": 1618,
+						"y": 1913,
+						"w": 181,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Vector Smart Object.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 104
+					},
+					"frame": {
+						"x": 1794,
+						"y": 1801,
+						"w": 156,
+						"h": 104
+					}
+				},
+				{
+					"filename": "button bg_opening.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 104
+					},
+					"frame": {
+						"x": 1794,
+						"y": 1801,
+						"w": 156,
+						"h": 104
+					}
+				}
+			]
+		},
+		{
+			"image": "tetris-atlas-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1732,
+				"h": 1082
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "platform.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1392,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1392,
+						"h": 1080
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1392,
+						"h": 1080
+					}
+				},
+				{
+					"filename": "tetris symbol_opening.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 336,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 314
+					},
+					"frame": {
+						"x": 1395,
+						"y": 1,
+						"w": 336,
+						"h": 314
+					}
+				},
+				{
+					"filename": "tetris symbol.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 273,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 272,
+						"h": 256
+					},
+					"frame": {
+						"x": 1395,
+						"y": 317,
+						"w": 272,
+						"h": 256
+					}
+				},
+				{
+					"filename": "data bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 172,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 172,
+						"h": 364
+					},
+					"frame": {
+						"x": 1395,
+						"y": 575,
+						"w": 172,
+						"h": 364
+					}
+				},
+				{
+					"filename": "wrong block.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 135
+					},
+					"frame": {
+						"x": 1395,
+						"y": 941,
+						"w": 128,
+						"h": 135
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d570f989fddfc294e7e210f9f78dc436:0b96dbead87ef7910bae663422bd64fd:19ab6265851ea71ad512388b10bf5f73$"
+	}
+}
